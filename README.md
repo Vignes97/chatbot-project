@@ -1,6 +1,5 @@
-===========================================
-Console Chatbot with Gemini & Ollama
-===========================================
+Chatbot with Gemini & Ollama
+----------------------------
 
 Overview
 --------
